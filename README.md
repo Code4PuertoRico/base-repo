@@ -19,6 +19,7 @@ Una vez acabe el proceso de crear tu repositorio debería añadir o cambiar algu
 5. Cambiar la licencia del proyecto a una [licencia de código abierto](https://opensource.org/licenses).
     - Tambien puedes utilizar [Choose a License](https://choosealicense.com/).
     - [Más información sobre licencias en repositorios en GitHub](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/licensing-a-repository#where-does-the-license-live-on-my-repository)
+6. Cambiar o eliminar los `code owners` encontrados en [.github/CODEOWNERS](.github/CODEOWNERS#L5) a los usuarios pertinentes para el repositorio que se esta creando.
 
 ## Codigo de Conducta
 
